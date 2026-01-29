@@ -1,0 +1,6 @@
+{
+  "database": {
+    "host": "prod-db.company.com",
+    "port": 3306
+  }
+}

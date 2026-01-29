@@ -1,0 +1,21 @@
+{
+  "user_config.json": {
+    "required_fields": [
+      "database",
+      "logging"
+    ]
+  },
+  "admin_config.json": {
+    "required_fields": [
+      "database",
+      "logging",
+      "security",
+      "audit"
+    ]
+  },
+  "simple_config.json": {
+    "required_fields": [
+      "database"
+    ]
+  }
+}

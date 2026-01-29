@@ -1,0 +1,15 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "timeout": 30
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "app.log"
+  },
+  "email": {
+    "sender": "noreply@company.com",
+    "max_retries": 3
+  }
+}
